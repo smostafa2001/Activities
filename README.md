@@ -37,7 +37,7 @@ dotnet build
 
 3. Run the Application
 ```bash
-dotnet run --project Presentation
+dotnet run --project Activities.API
 ```
 
 5. Access the API
