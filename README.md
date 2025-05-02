@@ -45,4 +45,4 @@ The API will be available at:
 ```bash
 https://localhost:7222/activities
 ```
-Use tools like Postman or Swagger UI (if enabled) to interact with the endpoints.
+Use tools like Postman to interact with the endpoints.
